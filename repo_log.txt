@@ -1,1 +1,2 @@
-b6a850f - ceoDemitri, 11 minutes ago : working
+c06c716 - ceoDemitri, 12 seconds ago : adds log and readme for journal and guidance
+b6a850f - ceoDemitri, 14 minutes ago : working
