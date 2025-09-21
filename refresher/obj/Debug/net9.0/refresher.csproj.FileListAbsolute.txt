@@ -1,0 +1,14 @@
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/bin/Debug/net9.0/refresher
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/bin/Debug/net9.0/refresher.deps.json
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/bin/Debug/net9.0/refresher.runtimeconfig.json
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/bin/Debug/net9.0/refresher.dll
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/bin/Debug/net9.0/refresher.pdb
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refresher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refresher.AssemblyInfoInputs.cache
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refresher.AssemblyInfo.cs
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refresher.csproj.CoreCompileInputs.cache
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refresher.dll
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refint/refresher.dll
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refresher.pdb
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refresher.genruntimeconfig.cache
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/ref/refresher.dll
