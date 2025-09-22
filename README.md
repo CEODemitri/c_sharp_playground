@@ -9,5 +9,7 @@ Climb the ranks and become proficient to my highest degree.
 ## Lessons
 
 - [ ] Getting back into the flow. Edit and add daily. breaks are obsolete. 7 Days get into a habit.
+      II
 
 - [ x ] Integral Types
+- [ ] Char and Strings

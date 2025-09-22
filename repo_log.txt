@@ -1,2 +1,5 @@
-c06c716 - ceoDemitri, 12 seconds ago : adds log and readme for journal and guidance
-b6a850f - ceoDemitri, 14 minutes ago : working
+659ddcb - ceoDemitri, 12 seconds ago : adds study guide from integral type practice
+953662a - ceoDemitri, 2 minutes ago : practice with integral types
+84fcb72 - ceoDemitri, 15 hours ago : adds log and readme for journal and guidance
+c06c716 - ceoDemitri, 15 hours ago : adds log and readme for journal and guidance
+b6a850f - ceoDemitri, 16 hours ago : working
