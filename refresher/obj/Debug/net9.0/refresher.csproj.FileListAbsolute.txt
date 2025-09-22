@@ -12,3 +12,4 @@
 /Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refresher.pdb
 /Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refresher.genruntimeconfig.cache
 /Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/ref/refresher.dll
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/refresher/obj/Debug/net9.0/refresher.sourcelink.json

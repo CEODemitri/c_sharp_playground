@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("refresher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84fcb72249b39959131615b1a7502b8323526bf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("refresher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("refresher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

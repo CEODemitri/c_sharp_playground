@@ -10,4 +10,4 @@ Climb the ranks and become proficient to my highest degree.
 
 - [ ] Getting back into the flow. Edit and add daily. breaks are obsolete. 7 Days get into a habit.
 
-- [ ] calculator app
+- [ x ] Integral Types
