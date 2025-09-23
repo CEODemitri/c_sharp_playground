@@ -1,0 +1,15 @@
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/bin/Debug/net9.0/StringPlay
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/bin/Debug/net9.0/StringPlay.deps.json
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/bin/Debug/net9.0/StringPlay.runtimeconfig.json
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/bin/Debug/net9.0/StringPlay.dll
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/bin/Debug/net9.0/StringPlay.pdb
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/obj/Debug/net9.0/StringPlay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/obj/Debug/net9.0/StringPlay.AssemblyInfoInputs.cache
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/obj/Debug/net9.0/StringPlay.AssemblyInfo.cs
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/obj/Debug/net9.0/StringPlay.csproj.CoreCompileInputs.cache
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/obj/Debug/net9.0/StringPlay.sourcelink.json
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/obj/Debug/net9.0/StringPlay.dll
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/obj/Debug/net9.0/refint/StringPlay.dll
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/obj/Debug/net9.0/StringPlay.pdb
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/obj/Debug/net9.0/StringPlay.genruntimeconfig.cache
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/StringPlay/obj/Debug/net9.0/ref/StringPlay.dll

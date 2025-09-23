@@ -12,4 +12,7 @@ Climb the ranks and become proficient to my highest degree.
       II
 
 - [ x ] Integral Types
-- [ ] Char and Strings
+- [ x ] Char
+- [ x ] char challenge # 0
+- [ ] char challenge # 1
+- [ ] Floating Type
