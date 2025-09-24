@@ -67,4 +67,14 @@ else
     Console.WriteLine("Unrecognized character type.");
 }
 
-// nextup : make a loop that prints all characters from A to Z
+// next-up : make a loop that prints all characters from A to Z
+for (char start = 'A'; start  <= 'Z'; start++) 
+{ 
+    Console.WriteLine($"Current iteration: {start}");
+}
+
+// a - z
+for (char lowerStart = 'a'; lowerStart <= 'z'; lowerStart++)
+{
+    Console.WriteLine($"Iteration : {lowerStart}");
+}

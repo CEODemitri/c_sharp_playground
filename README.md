@@ -14,5 +14,6 @@ Climb the ranks and become proficient to my highest degree.
 - [ x ] Integral Types
 - [ x ] Char
 - [ x ] char challenge # 0
-- [ ] char challenge # 1
-- [ ] Floating Type
+- [ x ] char challenge # 1
+- [  ] Floating Type
+- [  ] Refresh : Integral | Char | Floating

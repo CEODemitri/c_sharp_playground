@@ -1,5 +1,7 @@
-659ddcb - ceoDemitri, 12 seconds ago : adds study guide from integral type practice
-953662a - ceoDemitri, 2 minutes ago : practice with integral types
-84fcb72 - ceoDemitri, 15 hours ago : adds log and readme for journal and guidance
-c06c716 - ceoDemitri, 15 hours ago : adds log and readme for journal and guidance
-b6a850f - ceoDemitri, 16 hours ago : working
+8a34e58 - ceoDemitri, 17 seconds ago : char exercise plus one challenge. removes string from lineup for now
+78f7689 - ceoDemitri, 23 hours ago : quick readme change
+659ddcb - ceoDemitri, 23 hours ago : adds sstudy guide from integral type practice
+953662a - ceoDemitri, 23 hours ago : practice with integral types
+84fcb72 - ceoDemitri, 2 days ago : adds log and readme for journal and guidance
+c06c716 - ceoDemitri, 2 days ago : adds log and readme for journal and guidance
+b6a850f - ceoDemitri, 2 days ago : working
