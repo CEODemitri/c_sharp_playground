@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// float   | 6-9   | 4 bytes
+// double  | 15-17 | 8 bytes
+// decimal | 28-29 | 16 bytes
 
-Console.WriteLine("Hello, World!");
+// floating point numeric types represent real number  
