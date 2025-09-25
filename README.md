@@ -15,5 +15,5 @@ Climb the ranks and become proficient to my highest degree.
 - [ x ] Char
 - [ x ] char challenge # 0
 - [ x ] char challenge # 1
-- [  ] Floating Type
+- [ x ] Floating Type
 - [  ] Refresh : Integral | Char | Floating

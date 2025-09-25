@@ -1,0 +1,15 @@
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/bin/Debug/net9.0/FloatingVariables
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/bin/Debug/net9.0/FloatingVariables.deps.json
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/bin/Debug/net9.0/FloatingVariables.runtimeconfig.json
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/bin/Debug/net9.0/FloatingVariables.dll
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/bin/Debug/net9.0/FloatingVariables.pdb
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/obj/Debug/net9.0/FloatingVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/obj/Debug/net9.0/FloatingVariables.AssemblyInfoInputs.cache
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/obj/Debug/net9.0/FloatingVariables.AssemblyInfo.cs
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/obj/Debug/net9.0/FloatingVariables.csproj.CoreCompileInputs.cache
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/obj/Debug/net9.0/FloatingVariables.sourcelink.json
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/obj/Debug/net9.0/FloatingVariables.dll
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/obj/Debug/net9.0/refint/FloatingVariables.dll
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/obj/Debug/net9.0/FloatingVariables.pdb
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/obj/Debug/net9.0/FloatingVariables.genruntimeconfig.cache
+/Users/colorcodex8/Desktop/software/projects/c_sharp_playground/FloatingVariables/obj/Debug/net9.0/ref/FloatingVariables.dll
