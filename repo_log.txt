@@ -1,7 +1,11 @@
-8a34e58 - ceoDemitri, 17 seconds ago : char exercise plus one challenge. removes string from lineup for now
-78f7689 - ceoDemitri, 23 hours ago : quick readme change
-659ddcb - ceoDemitri, 23 hours ago : adds sstudy guide from integral type practice
-953662a - ceoDemitri, 23 hours ago : practice with integral types
-84fcb72 - ceoDemitri, 2 days ago : adds log and readme for journal and guidance
-c06c716 - ceoDemitri, 2 days ago : adds log and readme for journal and guidance
-b6a850f - ceoDemitri, 2 days ago : working
+2a46309 - ceoDemitri, 5 seconds ago : float reading from the source. 35 line practice
+63c5887 - ceoDemitri, 24 hours ago : one more addition to floating study
+5f4f318 - ceoDemitri, 24 hours ago : floating point types
+a82231f - ceoDemitri, 24 hours ago : char plus for loop game
+8a34e58 - ceoDemitri, 2 days ago : char exercise plus one challenge. removes string from lineup for now
+78f7689 - ceoDemitri, 3 days ago : quick readme change
+659ddcb - ceoDemitri, 3 days ago : adds sstudy guide from integral type practice
+953662a - ceoDemitri, 3 days ago : practice with integral types
+84fcb72 - ceoDemitri, 4 days ago : adds log and readme for journal and guidance
+c06c716 - ceoDemitri, 4 days ago : adds log and readme for journal and guidance
+b6a850f - ceoDemitri, 4 days ago : working
