@@ -17,3 +17,5 @@ Climb the ranks and become proficient to my highest degree.
 - [ x ] char challenge # 1
 - [ x35 line practice ] Floating Type
 - [  ] Refresh : Integral | Char | Floating
+
+-- break. looking at life seeing what i think i need.

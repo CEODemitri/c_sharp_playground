@@ -41,3 +41,10 @@ float vf = 4200032E-4f;
 decimal ef = 1.45e5m;
 Console.WriteLine($"scientific notation >> {vv}, {vf}, {ef}");
 
+
+// why real integrals matter in coding and real life
+// float >> numbers with fractional component that don't require extreme precision
+float averageRosePetals = 10.3f;
+float averagePumpkinSeeds = 101.6F;
+Console.WriteLine($"On average we lose {averagePumpkinSeeds/averageRosePetals}. true religion." ); // 9.864078
+
