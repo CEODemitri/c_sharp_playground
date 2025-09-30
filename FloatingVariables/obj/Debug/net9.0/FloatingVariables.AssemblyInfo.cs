@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FloatingVariables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9537b378138697591ae82b3fcbab6244c725d755")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+346a73b216a6729f4e369a2d992e5c437adb1a49")]
 [assembly: System.Reflection.AssemblyProductAttribute("FloatingVariables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FloatingVariables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -85,3 +85,39 @@ Console.WriteLine($" integral division >> test1 : {test1}");
 // to get a floating-point result, at least one operand must be a floating-point type
 double test2 = 7 / 4.0; // 1.75
 Console.WriteLine($" floating-point division >> test2 : {test2}");
+
+// using the proper type
+// sybte -128 to 127 ; good for small numbers such as a counter or a small array index
+sbyte butterflyCounter = 0;
+for (sbyte i = 0; i < 10; i++)
+{
+    butterflyCounter += 10;
+}
+Console.WriteLine($" final count of butterflies : {butterflyCounter}");
+
+// a special program called a compiler translates C# code into an intermediate language (IL) that the .NET runtime executes
+// the compiler also performs type checking to ensure that operations are type-safe and valid
+
+// short -32,768 to 32,767 ; good for signed values that that don't require large range
+short altitude = 0;
+short threshold = 15000; // feet
+altitude = 20000; // feet
+altitude += 500; // feet
+for (sbyte i = 10; i > 0; i--)
+{
+    Console.WriteLine($"Current Altitude : {altitude} feet");
+
+    if (altitude < (threshold + 2000) && altitude >= threshold)
+    {
+        Console.WriteLine("**** WARNING: Approaching Threshold ****");
+    }
+    else if (altitude <= threshold)
+    {
+        Console.WriteLine("**** DANGER: BELOW THRESHOLD ****");
+    }
+
+    altitude -= 1000; // feet
+}
+
+// TO DO
+// revise above to add flight and gas consumption
